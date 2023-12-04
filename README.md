@@ -2,5 +2,5 @@
 
 ## My contacts:
 
-- telegram: @boyegorka
+- Telegram: @boyegorka
 - Email: boyegorka@gmail.com

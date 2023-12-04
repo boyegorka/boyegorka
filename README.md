@@ -1,4 +1,6 @@
 # Hi
-## Contacts:
-### Telegram: @boyegorka
-### Email: boyegorka@gmail.com
+
+## My contacts:
+
+- telegram: @boyegorka
+- Email: boyegorka@gmail.com

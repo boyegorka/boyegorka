@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Egor Svistushkin</h1>
 
 - 📫 How to reach me **boyegorka@gmail.com**
+- 🏠 Personal page **https://bento.me/boyegorka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

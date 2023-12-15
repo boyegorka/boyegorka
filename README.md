@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Egor Svistushkin</h1>
+<h2 align="center">Focussing on IOS dev</h2>
 
 - 📫 How to reach me **boyegorka@gmail.com**
 - 🏠 Personal page **https://bento.me/boyegorka**

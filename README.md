@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Egor Svistushkin</h1>
+<h1 align="left">Hi, I'm Egor Svistushkin</h1>
 <!-- <h2 align="center">IOS dev</h2> -->
 
 - 📫 How to reach me **boyegorka@gmail.com**

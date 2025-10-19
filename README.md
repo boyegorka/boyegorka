@@ -2,7 +2,7 @@
 <!-- <h2 align="center">IOS dev</h2> -->
 
 - 📫 How to reach me **boyegorka@gmail.com**
-- 🏠 Personal page **https://bento.me/boyegorka**
+- 🏠 Personal page **https://boyegorka.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
